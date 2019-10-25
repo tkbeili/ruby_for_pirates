@@ -1,0 +1,2 @@
+# Arrays in Ruby
+To find more details about Arrays in Ruby always refer to the documentation, I would recommend starting with the Ruby Docs: [https://ruby-doc.org/core-2.5.0/Array.html#method-i-length](https://ruby-doc.org/core-2.5.0/Array.html#method-i-length)
